@@ -1,0 +1,34 @@
+body {
+font-family: 'Indie Flower', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Indie Flower", cursive;
+}
+
+h2 {
+    color: #3046C5;
+}
+
+header h2 {
+    color: black;
+}
+
+footer {
+    background-image: linear-gradient(#87ceeb, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background:#87ceeb;
+    color: black;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
