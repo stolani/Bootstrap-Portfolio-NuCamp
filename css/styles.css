@@ -5,7 +5,7 @@ font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3 {
-    font-family: "Indie Flower", cursive;
+    font-family:'Indie Flower', cursive;
 }
 
 h2 {
@@ -19,6 +19,10 @@ header h2 {
 footer {
     background-image: linear-gradient(#87ceeb, white);
     padding: 20px 0;
+}
+.navbar {
+    background-color: #c9e9f6;
+
 }
 
 .jumbotron {
