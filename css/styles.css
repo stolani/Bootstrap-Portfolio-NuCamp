@@ -38,21 +38,37 @@ footer {
     min-width: 100%;
     min-height: 100%
 }
-  
-.navbar {
-    background-color: #c9e9f6;
-
-}
-
 .jumbotron {
     padding: 30px;
     background:linear-gradient(#87ceeb, white);
     color: black;
     
 }
+  
+.navbar {
+    background-color: #c9e9f6;
+
+}
+.products{
+    margin: 4em 0;
+       position: relative; 
+   }
+   .products h1{
+    color:#000;
+    margin: 2em; 
+   }
+   .products img{
+     height: 15rem;
+     width: 100%;
+     margin: 1em;
+     
+   }
 
 .row-content {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+#shopHere .modal-header {
+    background: #17A2B8;
+    color: white; }
